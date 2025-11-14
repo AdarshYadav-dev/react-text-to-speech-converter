@@ -6,7 +6,7 @@ A simple Text-to-Speech app using:
 - TailwindCSS
 - Web Speech API
 
-## 🚀 Run Project
+##  Run Project
 
 ```bash
 npm install
