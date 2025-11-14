@@ -1,13 +1,20 @@
-# React Text To Speech Converter
+# 🎤 React Text-to-Speech Converter
 
-A simple Text-to-Speech app using:
+A modern **Text-to-Speech Converter** built with **React, Vite, and TailwindCSS**.  
+This app uses the **Web Speech API** to convert typed text into natural-sounding speech.  
+Supports **multiple voice options**, clean UI, fast performance, and works smoothly on all browsers.
 
-- React
-- TailwindCSS
-- Web Speech API
+---
 
-##  Run Project
+## ⭐ Features
 
-```bash
-npm install
-npm run dev
+- 🚀 Built with **React + Vite** (super fast dev environment)
+- 🎨 Beautiful UI using **TailwindCSS**
+- 🔊 Convert any text to speech instantly
+- 🗣️ Choose from multiple available voices
+- ⚡ Zero backend — fully browser-based
+- 📱 Responsive and clean layout
+
+---
+
+## 📷 Screenshot (Add yours)
