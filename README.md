@@ -1,6 +1,6 @@
 #  React Text-to-Speech Converter
 
-A modern **Text-to-Speech Converter** built with **React, Vite, and TailwindCSS**.  
+A modern **Text-to-Speech Converter** built with **React, and TailwindCSS**.  
 This app uses the **Web Speech API** to convert typed text into natural-sounding speech.  
 Supports **multiple voice options**, clean UI, fast performance, and works smoothly on all browsers.
 
