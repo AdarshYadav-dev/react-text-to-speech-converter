@@ -8,7 +8,7 @@ Supports **multiple voice options**, clean UI, fast performance, and works smoot
 
 ##  Features
 
--  Built with **React (super fast dev environment)
+-  Built with **React** (super fast dev environment)
 -  Beautiful UI using **TailwindCSS**
 -  Convert any text to speech instantly
 -  Choose from multiple available voices
